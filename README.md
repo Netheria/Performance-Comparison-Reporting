@@ -12,7 +12,9 @@
   <sub>Synthetic data · Representative core · Build-to-build comparison</sub>
 </p>
 
-<video src="assets/Preview.mp4" autoplay loop muted playsinline align="center" width="100%"></video>
+<p align="center">
+  <img src="assets/Preview.gif" alt="Preview" width="100%" style="max-width: 800px;">
+</p>
 
 ---
 
